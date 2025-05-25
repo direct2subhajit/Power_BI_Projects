@@ -1,3 +1,8 @@
+
+![Coffee Shop Sales Dashboard](https://github.com/user-attachments/assets/dcafa36c-b0ad-4dd3-bc7e-1b42445f7822)
+
+
+
 ## 📊 Case Study: Coffee Shop Sales Dashboard (Power BI)
 
 ### 📝 Project Overview
