@@ -1,3 +1,4 @@
+![Car Sales Data Analysis Dashboard](https://github.com/direct2subhajit/Power_BI_Projects/blob/main/Car_Sales_Analysis/car_sales_dashboard.gif)
 
 # Car Sales Data Analysis #
 𝗧𝘂𝗿𝗻𝗲𝗱 𝗿𝗮𝘄 𝗱𝗲𝗮𝗹𝗲𝗿𝘀𝗵𝗶𝗽 𝘀𝗮𝗹𝗲𝘀 𝗱𝗮𝘁𝗮 𝗶𝗻𝘁𝗼 $𝟯𝟳𝟭.𝟮𝗠 𝘄𝗼𝗿𝘁𝗵 𝗼𝗳 𝗶𝗻𝘀𝗶𝗴𝗵𝘁𝘀 🚗📊 𝗕𝘂𝗶𝗹𝘁 𝗮𝗻 𝗲𝘅𝗲𝗰𝘂𝘁𝗶𝘃𝗲 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 𝗱𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 𝘂𝗻𝗰𝗼𝘃𝗲𝗿𝗶𝗻𝗴 𝟮𝟯.𝟱𝟵% 𝗬𝗼𝗬 𝗴𝗿𝗼𝘄𝘁𝗵, 𝟭𝟯.𝟯𝗞 𝗰𝗮𝗿𝘀 𝘀𝗼𝗹𝗱, 𝗮𝗻𝗱 𝗽𝗿𝗶𝗰𝗶𝗻𝗴 𝘁𝗿𝗲𝗻𝗱𝘀 𝗱𝗿𝗶𝘃𝗶𝗻𝗴 𝘀𝗺𝗮𝗿𝘁𝗲𝗿 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗱𝗲𝗰𝗶𝘀𝗶𝗼𝗻𝘀.
